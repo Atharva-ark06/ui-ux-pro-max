@@ -582,7 +582,6 @@ If this project helped you build better workflows with Claude:
 
 <p align="center">
 
-### 🧠 Teach AI. Build Skills. Automate Everything.
 
 **Claude Super Skills**
 
