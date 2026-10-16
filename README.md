@@ -106,3 +106,4 @@ description: Explain what this skill does and when to use it.
 - Keep each skill focused on one coherent task.
 - Prefer actionable instructions over generic advice.
 - Avoid unsupported claims and unnecessary dependencies.
+- Include security, accessibility, and failure cases when relevant.
