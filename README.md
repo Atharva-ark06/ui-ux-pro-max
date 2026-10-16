@@ -65,3 +65,4 @@ cp -r skills/<skill-name> ~/.claude/skills/
 ```
 
 Replace `<skill-name>` with the directory you want to use. Check your installed Claude Code version and environment for any setup-specific requirements.
+
