@@ -36,3 +36,4 @@ ui-ux-pro-max/
 ├── skills/
 │   ├── README.md                 # Complete skill catalog
 │   ├── accessibility-review/
+│   ├── design-system/
