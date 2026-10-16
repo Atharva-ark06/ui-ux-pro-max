@@ -72,3 +72,4 @@ Replace `<skill-name>` with the directory you want to use. Check your installed 
 2. Read its `SKILL.md` to understand its scope and workflow.
 3. Copy or install the skill in the appropriate skills directory for your environment.
 4. Ask Claude to perform a task that matches the skill’s description.
+5. Review the output and validate changes before using them in a real project.
