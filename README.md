@@ -85,3 +85,4 @@ Skills provide guidance; they do not replace code review, testing, or human judg
 5. Add the skill to [`skills/README.md`](skills/README.md).
 
 Minimal example:
+
