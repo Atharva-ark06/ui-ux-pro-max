@@ -78,3 +78,4 @@ Skills provide guidance; they do not replace code review, testing, or human judg
 
 ## Creating a skill
 
+1. Create a directory under `skills/` using a short, descriptive name.
