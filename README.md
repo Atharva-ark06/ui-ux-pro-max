@@ -74,3 +74,4 @@ Replace `<skill-name>` with the directory you want to use. Check your installed 
 4. Ask Claude to perform a task that matches the skill’s description.
 5. Review the output and validate changes before using them in a real project.
 
+Skills provide guidance; they do not replace code review, testing, or human judgment.
