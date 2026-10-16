@@ -95,3 +95,4 @@ description: Explain what this skill does and when to use it.
 # My Skill
 
 ## Workflow
+1. Understand the task and constraints.
