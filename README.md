@@ -594,3 +594,5 @@ If this project helped you build better workflows with Claude:
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
+
+- [Claude Code Project Setup](skills/claude-code-project-setup/SKILL.md) — establish project context, conventions, and safe working rules.
