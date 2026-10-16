@@ -99,3 +99,4 @@ description: Explain what this skill does and when to use it.
 2. Inspect relevant project context.
 3. Make the smallest useful change.
 4. Validate the result and report limitations.
+```
