@@ -34,3 +34,4 @@ ui-ux-pro-max/
 ├── docs/                         # Supporting documentation
 ├── examples/                     # Examples and demonstrations
 ├── skills/
+│   ├── README.md                 # Complete skill catalog
