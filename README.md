@@ -250,6 +250,7 @@ ui-ux-pro-max/
 │   ├── claude-code-project-setup/
 │   ├── design-system/
 │   ├── frontend-design/
+│   ├── incident-response-triage/
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
