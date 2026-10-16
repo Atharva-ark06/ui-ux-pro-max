@@ -605,3 +605,5 @@ Practical, task-focused guides for building, testing, securing, and maintaining 
 - [LLM Feature Evaluation](skills/llm-feature-evaluation/SKILL.md) — evaluate AI features with datasets, rubrics, and regression checks.
 - [MCP Server Development](skills/mcp-server-development/SKILL.md) — design useful, secure Model Context Protocol tools and resources.
 - [Incident Response Triage](skills/incident-response-triage/SKILL.md) — structure initial incident assessment, containment, and evidence handling.
+
+Browse the [complete skill catalog](skills/README.md) for all available guides.
