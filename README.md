@@ -39,3 +39,4 @@ ui-ux-pro-max/
 │   ├── design-system/
 │   ├── frontend-design/
 │   ├── secure-code-review/
+│   ├── ...                        # Additional focused skill directories
