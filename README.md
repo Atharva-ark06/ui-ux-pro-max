@@ -249,6 +249,7 @@ ui-ux-pro-max/
 │   ├── automated-test-strategy/
 │   ├── claude-code-project-setup/
 │   ├── design-system/
+│   ├── frontend-design/
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
