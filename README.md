@@ -54,3 +54,4 @@ The tree is a high-level guide; `skills/README.md` is the source of truth for th
 Clone the repository:
 
 ```bash
+git clone https://github.com/Atharva-ark06/ui-ux-pro-max.git
