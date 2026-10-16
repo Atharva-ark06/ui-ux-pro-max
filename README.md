@@ -41,3 +41,4 @@ ui-ux-pro-max/
 │   ├── secure-code-review/
 │   ├── ...                        # Additional focused skill directories
 │   └── <skill-name>/SKILL.md
+├── claude-seo-main/              # Bundled source snapshot
