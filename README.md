@@ -87,3 +87,4 @@ Skills provide guidance; they do not replace code review, testing, or human judg
 Minimal example:
 
 ```markdown
+---
