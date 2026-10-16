@@ -53,3 +53,4 @@ The tree is a high-level guide; `skills/README.md` is the source of truth for th
 
 Clone the repository:
 
+```bash
