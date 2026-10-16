@@ -601,3 +601,4 @@ Practical, task-focused guides for building, testing, securing, and maintaining 
 - [Secure Code Review](skills/secure-code-review/SKILL.md) — review trust boundaries, input handling, authorization, and secrets.
 - [React Performance Review](skills/react-performance-review/SKILL.md) — find measurable rendering and bundle bottlenecks.
 - [Playwright E2E Testing](skills/playwright-e2e-testing/SKILL.md) — build reliable end-to-end tests around user-critical journeys.
+- [Database Migration Review](skills/database-migration-review/SKILL.md) — assess migration safety, rollout order, and rollback plans.
