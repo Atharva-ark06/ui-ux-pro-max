@@ -20,3 +20,4 @@ Use the catalog to choose individual skills rather than loading every guide into
 - **Engineering workflows:** project setup, API contracts, automated testing, React performance, and database migrations.
 - **Security and AI:** secure code review, incident-response triage, MCP server development, and LLM feature evaluation.
 
+## Skill catalog
