@@ -256,6 +256,7 @@ ui-ux-pro-max/
 │   ├── playwright-e2e-testing/
 │   ├── react-performance-review/
 │   ├── secure-code-review/
+│   └── ... (other skill directories)
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
