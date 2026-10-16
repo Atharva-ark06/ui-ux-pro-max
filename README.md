@@ -31,3 +31,4 @@ Each skill lives in its own directory and is defined by a `SKILL.md` file.
 ```text
 ui-ux-pro-max/
 ├── README.md
+├── docs/                         # Supporting documentation
