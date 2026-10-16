@@ -58,3 +58,4 @@ git clone https://github.com/Atharva-ark06/ui-ux-pro-max.git
 cd ui-ux-pro-max
 ```
 
+To use an individual skill, copy its directory into your Claude skills directory:
