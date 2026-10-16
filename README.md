@@ -15,3 +15,4 @@ Use the catalog to choose individual skills rather than loading every guide into
 ## What’s inside
 
 - **UI/UX design:** layout, responsive interfaces, navigation, typography, motion, and design systems.
+- **Product experience:** onboarding, forms, empty states, error recovery, checkout, and settings.
