@@ -56,3 +56,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/Atharva-ark06/ui-ux-pro-max.git
 cd ui-ux-pro-max
+```
