@@ -590,3 +590,5 @@ If this project helped you build better workflows with Claude:
 <p align="center">
   <sub>Built for developers who want to get more out of AI.</sub>
 </p>
+
+## 🧰 Engineering & Agent Workflows
