@@ -602,3 +602,4 @@ Practical, task-focused guides for building, testing, securing, and maintaining 
 - [React Performance Review](skills/react-performance-review/SKILL.md) — find measurable rendering and bundle bottlenecks.
 - [Playwright E2E Testing](skills/playwright-e2e-testing/SKILL.md) — build reliable end-to-end tests around user-critical journeys.
 - [Database Migration Review](skills/database-migration-review/SKILL.md) — assess migration safety, rollout order, and rollback plans.
+- [LLM Feature Evaluation](skills/llm-feature-evaluation/SKILL.md) — evaluate AI features with datasets, rubrics, and regression checks.
