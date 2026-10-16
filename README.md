@@ -43,3 +43,4 @@ ui-ux-pro-max/
 │   └── <skill-name>/SKILL.md
 ├── claude-seo-main/              # Bundled source snapshot
 ├── claude-seo-main.zip
+├── ui-ux-pro-max-skill-main/     # Bundled source snapshot
