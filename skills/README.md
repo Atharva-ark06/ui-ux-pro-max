@@ -74,3 +74,15 @@ This directory contains focused, reusable workflows for Claude Code and other AI
 - [Design handoff template](../docs/design-handoff-template.md) — implementation-ready requirements
 - [Microcopy review](../docs/microcopy-review.md) — clear and honest interface language
 - [Interaction state inventory](../docs/interaction-state-inventory.md) — states and acceptance criteria
+
+## Engineering and agent workflows
+- [Claude Code Project Setup](claude-code-project-setup/SKILL.md) — scoped instructions and reusable skill organization
+- [Automated Test Strategy](automated-test-strategy/SKILL.md) — risk-based unit, integration, and end-to-end coverage
+- [API Contract Design](api-contract-design/SKILL.md) — schemas, errors, compatibility, and secure boundaries
+- [Secure Code Review](secure-code-review/SKILL.md) — defensive review of trust boundaries and sensitive operations
+- [React Performance Review](react-performance-review/SKILL.md) — measure and fix user-visible performance bottlenecks
+- [Playwright E2E Testing](playwright-e2e-testing/SKILL.md) — reliable browser automation for critical journeys
+- [Database Migration Review](database-migration-review/SKILL.md) — compatibility, backfills, rollout, and recovery planning
+- [LLM Feature Evaluation](llm-feature-evaluation/SKILL.md) — datasets, rubrics, safety checks, and regression evaluation
+- [MCP Server Development](mcp-server-development/SKILL.md) — typed tools, least privilege, and robust server behavior
+- [Incident Response Triage](incident-response-triage/SKILL.md) — preserve evidence, scope incidents, and plan containment
