@@ -83,3 +83,4 @@ Skills provide guidance; they do not replace code review, testing, or human judg
 3. Explain the skill’s purpose, when it should be used, and its recommended workflow.
 4. Include concrete checks and examples where they improve reliability.
 5. Add the skill to [`skills/README.md`](skills/README.md).
+
