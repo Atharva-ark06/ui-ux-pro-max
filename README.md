@@ -61,3 +61,4 @@ cd ui-ux-pro-max
 To use an individual skill, copy its directory into your Claude skills directory:
 
 ```bash
+cp -r skills/<skill-name> ~/.claude/skills/
