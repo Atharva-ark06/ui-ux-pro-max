@@ -25,3 +25,4 @@ Use the catalog to choose individual skills rather than loading every guide into
 Browse [`skills/README.md`](skills/README.md) for the complete list of available skills.
 
 Each skill lives in its own directory and is defined by a `SKILL.md` file.
+
