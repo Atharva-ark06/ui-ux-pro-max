@@ -96,3 +96,4 @@ description: Explain what this skill does and when to use it.
 
 ## Workflow
 1. Understand the task and constraints.
+2. Inspect relevant project context.
