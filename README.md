@@ -603,3 +603,4 @@ Practical, task-focused guides for building, testing, securing, and maintaining 
 - [Playwright E2E Testing](skills/playwright-e2e-testing/SKILL.md) — build reliable end-to-end tests around user-critical journeys.
 - [Database Migration Review](skills/database-migration-review/SKILL.md) — assess migration safety, rollout order, and rollback plans.
 - [LLM Feature Evaluation](skills/llm-feature-evaluation/SKILL.md) — evaluate AI features with datasets, rubrics, and regression checks.
+- [MCP Server Development](skills/mcp-server-development/SKILL.md) — design useful, secure Model Context Protocol tools and resources.
