@@ -246,6 +246,7 @@ ui-ux-pro-max/
 │   ├── README.md
 │   ├── accessibility-review/
 │   ├── api-contract-design/
+│   ├── automated-test-strategy/
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
