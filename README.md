@@ -259,6 +259,7 @@ ui-ux-pro-max/
 │   └── ... (other skill directories)
 ├── claude-seo-main/             # bundled source snapshot
 ├── claude-seo-main.zip
+├── ui-ux-pro-max-skill-main/    # bundled source snapshot
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
