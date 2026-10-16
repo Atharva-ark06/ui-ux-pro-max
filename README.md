@@ -110,3 +110,4 @@ description: Explain what this skill does and when to use it.
 - Keep catalog links accurate and verify paths before submitting changes.
 
 ## License
+
