@@ -37,3 +37,4 @@ ui-ux-pro-max/
 │   ├── README.md                 # Complete skill catalog
 │   ├── accessibility-review/
 │   ├── design-system/
+│   ├── frontend-design/
