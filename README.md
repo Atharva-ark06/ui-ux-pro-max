@@ -254,6 +254,7 @@ ui-ux-pro-max/
 │   ├── llm-feature-evaluation/
 │   ├── mcp-server-development/
 │   ├── playwright-e2e-testing/
+│   ├── react-performance-review/
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
