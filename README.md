@@ -88,3 +88,4 @@ Minimal example:
 
 ```markdown
 ---
+name: my-skill
