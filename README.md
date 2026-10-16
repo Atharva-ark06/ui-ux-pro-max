@@ -29,3 +29,4 @@ Each skill lives in its own directory and is defined by a `SKILL.md` file.
 ## Repository structure
 
 ```text
+ui-ux-pro-max/
