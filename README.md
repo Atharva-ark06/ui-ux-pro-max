@@ -17,3 +17,4 @@ Use the catalog to choose individual skills rather than loading every guide into
 - **UI/UX design:** layout, responsive interfaces, navigation, typography, motion, and design systems.
 - **Product experience:** onboarding, forms, empty states, error recovery, checkout, and settings.
 - **Quality and accessibility:** usability testing, design QA, accessibility review, and visual regression.
+- **Engineering workflows:** project setup, API contracts, automated testing, React performance, and database migrations.
