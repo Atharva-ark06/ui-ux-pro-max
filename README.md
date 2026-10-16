@@ -257,6 +257,7 @@ ui-ux-pro-max/
 │   ├── react-performance-review/
 │   ├── secure-code-review/
 │   └── ... (other skill directories)
+├── claude-seo-main/             # bundled source snapshot
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
