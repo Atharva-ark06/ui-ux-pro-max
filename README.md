@@ -242,6 +242,7 @@ ui-ux-pro-max/
 ├── README.md
 ├── docs/
 ├── examples/
+├── skills/
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
