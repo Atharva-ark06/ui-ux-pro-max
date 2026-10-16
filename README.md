@@ -236,6 +236,7 @@ Technical Writing
 ## 📁 Current Repository Structure
 
 The tree below reflects the current `main` branch. The `skills/` directory contains the maintained skill guides; `docs/` and `examples/` provide supporting material.
+
 ## 🧰 Engineering & Agent Workflows
 
 Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
