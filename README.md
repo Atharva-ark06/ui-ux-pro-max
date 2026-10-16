@@ -231,6 +231,27 @@ Technical Writing
 
 ---
 
+---
+
+## 🧰 Engineering & Agent Workflows
+
+Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
+
+- [Claude Code Project Setup](skills/claude-code-project-setup/SKILL.md) — establish project context, conventions, and safe working rules.
+- [Automated Test Strategy](skills/automated-test-strategy/SKILL.md) — choose a balanced test pyramid and prioritize high-value coverage.
+- [API Contract Design](skills/api-contract-design/SKILL.md) — define clear, versionable API contracts and predictable errors.
+- [Secure Code Review](skills/secure-code-review/SKILL.md) — review trust boundaries, input handling, authorization, and secrets.
+- [React Performance Review](skills/react-performance-review/SKILL.md) — find measurable rendering and bundle bottlenecks.
+- [Playwright E2E Testing](skills/playwright-e2e-testing/SKILL.md) — build reliable end-to-end tests around user-critical journeys.
+- [Database Migration Review](skills/database-migration-review/SKILL.md) — assess migration safety, rollout order, and rollback plans.
+- [LLM Feature Evaluation](skills/llm-feature-evaluation/SKILL.md) — evaluate AI features with datasets, rubrics, and regression checks.
+- [MCP Server Development](skills/mcp-server-development/SKILL.md) — design useful, secure Model Context Protocol tools and resources.
+- [Incident Response Triage](skills/incident-response-triage/SKILL.md) — structure initial incident assessment, containment, and evidence handling.
+
+Browse the [complete skill catalog](skills/README.md) for all available guides.
+
+---
+
 # ⚡ Installation
 
 ## Option 1 — Clone the Repository
@@ -590,20 +611,3 @@ If this project helped you build better workflows with Claude:
 <p align="center">
   <sub>Built for developers who want to get more out of AI.</sub>
 </p>
-
-## 🧰 Engineering & Agent Workflows
-
-Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
-
-- [Claude Code Project Setup](skills/claude-code-project-setup/SKILL.md) — establish project context, conventions, and safe working rules.
-- [Automated Test Strategy](skills/automated-test-strategy/SKILL.md) — choose a balanced test pyramid and prioritize high-value coverage.
-- [API Contract Design](skills/api-contract-design/SKILL.md) — define clear, versionable API contracts and predictable errors.
-- [Secure Code Review](skills/secure-code-review/SKILL.md) — review trust boundaries, input handling, authorization, and secrets.
-- [React Performance Review](skills/react-performance-review/SKILL.md) — find measurable rendering and bundle bottlenecks.
-- [Playwright E2E Testing](skills/playwright-e2e-testing/SKILL.md) — build reliable end-to-end tests around user-critical journeys.
-- [Database Migration Review](skills/database-migration-review/SKILL.md) — assess migration safety, rollout order, and rollback plans.
-- [LLM Feature Evaluation](skills/llm-feature-evaluation/SKILL.md) — evaluate AI features with datasets, rubrics, and regression checks.
-- [MCP Server Development](skills/mcp-server-development/SKILL.md) — design useful, secure Model Context Protocol tools and resources.
-- [Incident Response Triage](skills/incident-response-triage/SKILL.md) — structure initial incident assessment, containment, and evidence handling.
-
-Browse the [complete skill catalog](skills/README.md) for all available guides.
