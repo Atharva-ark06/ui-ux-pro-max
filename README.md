@@ -80,3 +80,4 @@ Skills provide guidance; they do not replace code review, testing, or human judg
 
 1. Create a directory under `skills/` using a short, descriptive name.
 2. Add a `SKILL.md` file with YAML frontmatter containing `name` and `description`.
+3. Explain the skill’s purpose, when it should be used, and its recommended workflow.
