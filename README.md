@@ -107,3 +107,4 @@ description: Explain what this skill does and when to use it.
 - Prefer actionable instructions over generic advice.
 - Avoid unsupported claims and unnecessary dependencies.
 - Include security, accessibility, and failure cases when relevant.
+- Keep catalog links accurate and verify paths before submitting changes.
