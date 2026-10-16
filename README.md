@@ -599,3 +599,4 @@ Practical, task-focused guides for building, testing, securing, and maintaining 
 - [Automated Test Strategy](skills/automated-test-strategy/SKILL.md) — choose a balanced test pyramid and prioritize high-value coverage.
 - [API Contract Design](skills/api-contract-design/SKILL.md) — define clear, versionable API contracts and predictable errors.
 - [Secure Code Review](skills/secure-code-review/SKILL.md) — review trust boundaries, input handling, authorization, and secrets.
+- [React Performance Review](skills/react-performance-review/SKILL.md) — find measurable rendering and bundle bottlenecks.
