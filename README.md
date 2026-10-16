@@ -35,3 +35,4 @@ ui-ux-pro-max/
 ├── examples/                     # Examples and demonstrations
 ├── skills/
 │   ├── README.md                 # Complete skill catalog
+│   ├── accessibility-review/
