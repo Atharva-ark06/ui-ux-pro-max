@@ -45,3 +45,4 @@ ui-ux-pro-max/
 ├── claude-seo-main.zip
 ├── ui-ux-pro-max-skill-main/     # Bundled source snapshot
 └── ui-ux-pro-max-skill-main.zip
+```
