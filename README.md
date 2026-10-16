@@ -75,3 +75,4 @@ Replace `<skill-name>` with the directory you want to use. Check your installed 
 5. Review the output and validate changes before using them in a real project.
 
 Skills provide guidance; they do not replace code review, testing, or human judgment.
+
