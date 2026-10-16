@@ -184,7 +184,7 @@ Provide production-quality frontend development guidance.
 
 # 🧠 Skills
 
-The repository includes focused, task-oriented guides. Start with the one that matches the work:
+The repository includes focused, task-oriented guides. Browse the [complete skill catalog](skills/README.md), or start with one of these core guides:
 
 ### 💻 Development
 
