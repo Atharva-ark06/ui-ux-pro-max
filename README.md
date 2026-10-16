@@ -23,3 +23,4 @@ Use the catalog to choose individual skills rather than loading every guide into
 ## Skill catalog
 
 Browse [`skills/README.md`](skills/README.md) for the complete list of available skills.
+
