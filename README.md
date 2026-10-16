@@ -77,3 +77,4 @@ Replace `<skill-name>` with the directory you want to use. Check your installed 
 Skills provide guidance; they do not replace code review, testing, or human judgment.
 
 ## Creating a skill
+
