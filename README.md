@@ -40,3 +40,4 @@ ui-ux-pro-max/
 │   ├── frontend-design/
 │   ├── secure-code-review/
 │   ├── ...                        # Additional focused skill directories
+│   └── <skill-name>/SKILL.md
