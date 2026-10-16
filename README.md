@@ -11,3 +11,4 @@ This repository brings together focused `SKILL.md` guides for Claude Code and co
 Each skill describes when it is useful and provides a practical process, checks, and recommendations for a specific task.
 
 Use the catalog to choose individual skills rather than loading every guide into every project.
+
