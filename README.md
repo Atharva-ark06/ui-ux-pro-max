@@ -42,3 +42,4 @@ ui-ux-pro-max/
 │   ├── ...                        # Additional focused skill directories
 │   └── <skill-name>/SKILL.md
 ├── claude-seo-main/              # Bundled source snapshot
+├── claude-seo-main.zip
