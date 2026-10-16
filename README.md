@@ -69,3 +69,4 @@ Replace `<skill-name>` with the directory you want to use. Check your installed 
 ## Usage
 
 1. Choose a skill from [`skills/README.md`](skills/README.md).
+2. Read its `SKILL.md` to understand its scope and workflow.
