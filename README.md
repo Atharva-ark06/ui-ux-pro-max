@@ -592,3 +592,5 @@ If this project helped you build better workflows with Claude:
 </p>
 
 ## 🧰 Engineering & Agent Workflows
+
+Practical, task-focused guides for building, testing, securing, and maintaining software with AI-assisted workflows.
