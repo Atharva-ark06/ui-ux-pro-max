@@ -184,7 +184,7 @@ Provide production-quality frontend development guidance.
 
 # 🧠 Skills
 
-> Add your repository's actual skills here as you expand the collection.
+The repository includes focused, task-oriented guides. Start with the one that matches the work:
 
 ### 💻 Development
 
@@ -236,13 +236,13 @@ Technical Writing
 ## Option 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/Atharva-ark06/Claude-super-skills.git
+git clone https://github.com/Atharva-ark06/ui-ux-pro-max.git
 ```
 
 Then enter the project:
 
 ```bash
-cd Claude-super-skills
+cd ui-ux-pro-max
 ```
 
 ---
