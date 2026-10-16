@@ -598,3 +598,4 @@ Practical, task-focused guides for building, testing, securing, and maintaining 
 - [Claude Code Project Setup](skills/claude-code-project-setup/SKILL.md) — establish project context, conventions, and safe working rules.
 - [Automated Test Strategy](skills/automated-test-strategy/SKILL.md) — choose a balanced test pyramid and prioritize high-value coverage.
 - [API Contract Design](skills/api-contract-design/SKILL.md) — define clear, versionable API contracts and predictable errors.
+- [Secure Code Review](skills/secure-code-review/SKILL.md) — review trust boundaries, input handling, authorization, and secrets.
