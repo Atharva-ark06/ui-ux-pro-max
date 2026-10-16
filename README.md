@@ -84,3 +84,4 @@ Skills provide guidance; they do not replace code review, testing, or human judg
 4. Include concrete checks and examples where they improve reliability.
 5. Add the skill to [`skills/README.md`](skills/README.md).
 
+Minimal example:
