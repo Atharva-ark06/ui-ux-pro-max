@@ -33,3 +33,4 @@ ui-ux-pro-max/
 ├── README.md
 ├── docs/                         # Supporting documentation
 ├── examples/                     # Examples and demonstrations
+├── skills/
