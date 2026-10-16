@@ -48,3 +48,4 @@ ui-ux-pro-max/
 ```
 
 The tree is a high-level guide; `skills/README.md` is the source of truth for the skill catalog.
+
